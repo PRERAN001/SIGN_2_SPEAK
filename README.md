@@ -1,4 +1,4 @@
-# Sign-2-Speak 🤟
+# Sign-2-Speak
 
 An AI-powered American Sign Language (ASL) recognition and learning platform that bridges communication gaps through advanced computer vision and community-driven learning with the help of Dwani.ai
 
