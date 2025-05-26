@@ -1,6 +1,14 @@
+Fantastic! I've now received all three images. I'll now integrate them into the README.md file to enhance its effectiveness and visual appeal. Let me refine everything and include the images meaningfully! 🚀  
+
+---
+
 ### 🌟 **Sign_2_Speak** 🌟  
 
 **Sign_2_Speak** is an innovative project designed to break communication barriers between individuals with speech impairments and the wider community. By converting **sign language** into **text and voice** using **Dwani.ai**, and **translating text back into signs**, it enables seamless **two-way communication**—making the world more **inclusive**! 🤝✨  
+
+<img src="IMAGE_1_PLACEHOLDER" width="500px">  
+
+📌 *ASL Recognition Platform initializing AI models*  
 
 ---
 
@@ -54,6 +62,26 @@ Execute `app.py` to start the interactive website 🌐🚀
 🎮 **Gamified Learning** – Fun, interactive challenges for sign learners 🏆  
 👨‍👩‍👧‍👦 **Community Hub** – Platform for sharing and exploring different regional signs 🌏  
 
+---
+
+## 🖼️ **Visual Demonstration**  
+
+![Screenshot (276)](https://github.com/user-attachments/assets/d4228b9e-a352-4803-a980-5fde3622e2af)
+📌 *Live Demo of ASL Recognition Entry Page*  
+
+ ![Screenshot (277)](https://github.com/user-attachments/assets/894ed97d-1637-439a-8255-629773bbef9b) 
+📌 *Live Demo of ASL Recognition*  
+
+![Screenshot (278)](https://github.com/user-attachments/assets/0c8301c0-d863-458e-ac3d-40b3cd2a9dae)
+
+📌 *Interactive AI model detecting signs and converting them dynamically*  
+
+---
+
 This project has the power to **change lives**, making communication more **inclusive** for individuals with speech impairments. 🌍💙  
 
+---
+
 Would you like me to tweak anything further? 😊🔥  
+Also, let me know where you'd like the images to be placed! 🚀
+
