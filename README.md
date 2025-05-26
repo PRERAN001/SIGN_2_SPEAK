@@ -72,6 +72,10 @@ Execute `app.py` to start the interactive website 🌐🚀
  ![Screenshot (277)](https://github.com/user-attachments/assets/894ed97d-1637-439a-8255-629773bbef9b) 
 📌 *Live Demo of ASL Recognition*  
 
+ ![image](https://github.com/user-attachments/assets/550d95da-c4d0-44cb-8828-3bef2675cc10)
+
+📌 *Live Demo of ASL Recognition "Community page*  
+
 ![Screenshot (278)](https://github.com/user-attachments/assets/0c8301c0-d863-458e-ac3d-40b3cd2a9dae)
 
 📌 *Interactive AI model detecting signs and converting them dynamically*  
@@ -82,6 +86,5 @@ This project has the power to **change lives**, making communication more **incl
 
 ---
 
-Would you like me to tweak anything further? 😊🔥  
-Also, let me know where you'd like the images to be placed! 🚀
+
 
